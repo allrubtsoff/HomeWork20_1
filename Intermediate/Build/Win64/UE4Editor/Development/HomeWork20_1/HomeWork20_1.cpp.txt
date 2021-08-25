@@ -1,0 +1,2 @@
+G:\Unreal Projects\HomeWork20_1\Intermediate\Build\Win64\UE4Editor\Development\HomeWork20_1\Definitions.HomeWork20_1.h
+G:\Unreal Projects\HomeWork20_1\Source\HomeWork20_1\HomeWork20_1.h

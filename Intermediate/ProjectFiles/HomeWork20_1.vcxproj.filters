@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HomeWork20_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E5CC417C-53F2-4546-89C8-9C90F89A2FFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork20_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HomeWork20_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{51A70FDD-E0E2-4F6F-9376-779381A7216D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HomeWork20_1">
+      <UniqueIdentifier>{BB00599D-9559-4E16-A561-2F5C9D433791}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork20_1\HomeWork20_1.Build.cs">
+      <Filter>Source\HomeWork20_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HomeWork20_1\HomeWork20_1.cpp">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HomeWork20_1\HomeWork20_1.h">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HomeWork20_1\HomeWork20_1GameModeBase.cpp">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HomeWork20_1\HomeWork20_1GameModeBase.h">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HomeWork20_1\MyActor.cpp">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HomeWork20_1\MyActor.h">
+      <Filter>Source\HomeWork20_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HomeWork20_1",
+			"Path": "G:\\Unreal Projects\\HomeWork20_1\\Source\\HomeWork20_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HomeWork20_1Editor",
+			"Path": "G:\\Unreal Projects\\HomeWork20_1\\Source\\HomeWork20_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
